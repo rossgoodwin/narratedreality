@@ -184,7 +184,7 @@ footer {
 
 @media(max-width:668px) {
     .headline h1 {
-        /*font-size: 70px;*/
+        font-size: 70px;
     }
 
     .headline h3 {
